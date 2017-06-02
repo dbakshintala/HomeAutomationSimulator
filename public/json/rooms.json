@@ -1,0 +1,10 @@
+{
+  "room_1":{
+    "temperature":20,
+    "opacity": 0.10
+  },
+  "room_2":{
+    "temperature":10,
+    "opacity": 0.50
+  }
+}
